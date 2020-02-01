@@ -1,0 +1,21 @@
+﻿<[16/09/2019 16:43:08] ‪Cliente: As mensagens e ligações desta conversa estão protegidas com a criptografia de ponta a ponta.
+<[16/09/2019 16:43:08] ‪Cliente: Oi boa tarde
+>[16/09/2019 16:43:18] Camila: Boa tarde
+<[16/09/2019 16:43:19] ‪Cliente: Vc aluga casa com piscina para fazer festa?
+>[16/09/2019 16:43:24] Camila: Sim
+>[16/09/2019 16:43:28] Camila: Pra qual data?
+<[16/09/2019 16:43:53] ‪Cliente: Em 04 abril de 2019
+>[16/09/2019 16:44:50] Camila: Sim
+>[16/09/2019 16:44:55] Camila: Está disponível
+>[16/09/2019 16:45:00] Camila: Valor 800
+<[16/09/2019 16:44:43] ‪Cliente: E na nova ?
+>[16/09/2019 16:45:27] Camila: Sim
+<[16/09/2019 16:45:39] ‪Cliente: Mas qual os horários?
+>[16/09/2019 16:45:57] Camila: Das 8h as 21h
+<[16/09/2019 16:46:32] ‪Cliente: Não dá pra ser das 8 da noite até às 5 da manhã?
+>[16/09/2019 16:49:50] Camila: Não
+>[16/09/2019 16:49:58] Camila: Somente das 8h as 21h
+<[16/09/2019 17:23:36] ‪Cliente: Mesmo se pagar a mas?
+>[16/09/2019 17:28:59] Camila: Não, ñ temos alvará para funcionamento noturno
+<[16/09/2019 17:29:39] ‪Cliente: Tá bom então obgd
+>[16/09/2019 17:32:06] Camila: Por nada

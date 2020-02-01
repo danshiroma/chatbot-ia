@@ -1,0 +1,12 @@
+﻿<[14/09/2019 16:04:15] ‪Cliente: ‎As mensagens e ligações desta conversa estão protegidas com a criptografia de ponta a ponta.
+<[14/09/2019 16:04:15] ‪Cliente: Boa tarde
+>[14/09/2019 16:09:17] Camila: Boa tarde
+<[14/09/2019 16:09:39] ‪Cliente: Meu nome é Jean
+<[14/09/2019 16:10:09] ‪Cliente: Eu queria saber se no dia 12/10 já está locado?
+>[14/09/2019 16:10:28] Camila: Ja está locado
+>[14/09/2019 16:10:47] Camila: Dia 13 ta disponível
+<[14/09/2019 16:11:33] ‪Cliente: Precisava pro dia 12
+<[14/09/2019 16:11:42] ‪Cliente: Mas muito obrigado
+<[14/09/2019 16:12:01] ‪Cliente: Quando eu precisar eu procuro vocês.
+>[14/09/2019 16:12:05] Camila: Por nada!!
+<[14/09/2019 16:12:09] ‪Cliente: 👋🏼

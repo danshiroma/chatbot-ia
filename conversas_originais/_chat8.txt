@@ -1,0 +1,11 @@
+﻿<[13/09/2019 20:23:03] ‪Cliente: ‎As mensagens e ligações desta conversa estão protegidas com a criptografia de ponta a ponta.
+<[13/09/2019 20:23:03] ‪Cliente: Olá amigo. Boa noite
+<[13/09/2019 20:23:03] ‪Cliente: Quanto é o aluguel do local
+>[13/09/2019 21:18:29] Camila: Boa boite
+>[13/09/2019 21:18:38] Camila: Está 800 de sexta a domingo
+>[13/09/2019 21:18:44] Camila: 600 de seg a quinta
+<[13/09/2019 21:21:29] ‪Cliente: É meu amigo e eu fazemos aniversário no mesmo dia
+<[13/09/2019 21:21:40] ‪Cliente: 10 de fevereiro
+<[13/09/2019 21:22:06] ‪Cliente: Mas cai segunda
+<[13/09/2019 21:22:21] ‪Cliente: Ai optamos por fds
+>[13/09/2019 22:13:00] Camila: Ah sim, caso queira visitar o espaço, estamos a disposição

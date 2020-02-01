@@ -1,0 +1,102 @@
+﻿saudacao|Olá boa noite
+saudacao|oi tubo bem
+saudacao|Olá!,Boa tarde!
+saudacao|Olá boa tarde
+saudacao|Oii boa noite Tudo bem ?
+saudacao|Boa tarde tudo bem?
+saudacao|Oi bom dia
+saudacao|Ola como estao
+saudacao|Oi tudo bem? Me falaram sobre o espaco
+saudacao|Oi tudo bem com vcs
+saudacao|Tudo bem com vcs, me recomendaram vcs
+saudacao|Boa noite, tudo bem
+saudacao|Tarde
+saudacao|Ola, e ai tudo bem?
+saudacao|Opa, tudo bem com vcs
+saudacao|E ai tudo bem?
+saudacao|Ola, me recomedaram o espaco
+saudacao|E ai blz, é o espaco shiroma
+saudacao|Bom dia, tenho interesse no espaco
+saudacao|Tudo bem, podemos conversar
+horario|E o horario de uso
+horario|Sobre o horario, como funciona
+horario|Em relação ao horário de uso, qual é
+horario|Até que horas podemos ficar?
+horario|O horário de uso do local?
+horario|Qual é o horário de funcionamento?
+horario|O espaco poderemos ficar até que horas?
+horario|O funcionamento, até que horas estará liberado?
+horario|O espaco está liberado para funcionar até que horas?
+horario|Até que horas poderemos ficar?
+horario|E o horário de uso?
+horario|Até que horas posso usar?
+horario|Qual o horario?
+horario|Podemos ficar no local até que horas?
+horario|O estabelecimento funciona até que horas?
+horario|Em relação ao horário de funcionamento?
+horario|Sobre o horario?
+horario|Até que horas?
+horario|Até que horas está liberado?
+horario|Podemos ficar até que horas?
+sobre_espaco|E oque está incluso nesse valor ?
+sobre_espaco|Gostaria se saber sobre o espaço e preços?
+sobre_espaco|Gostaria de informações sobre o espaço
+sobre_espaco|Sobre o local como ele é
+sobre_espaco|O que vcs tem no espaço?
+sobre_espaco|O que disponibiliza?
+sobre_espaco|Eu gostaria de saber como funciona para alugar seu espaço
+sobre_espaco|Gostaria de saber informações
+sobre_espaco|Na locação do espaço o que está incluso
+sobre_espaco|Como é o espaco de vcs
+sobre_espaco|Como é o espaco, o que ele possui
+sobre_espaco|O que vcs disponibilizam no local
+sobre_espaco|Desejo saber sobre o local
+sobre_espaco|Em relação ao espaco como ele é
+sobre_espaco|Gostaria que me falasse sobre o espaço shiroma
+sobre_espaco|Como ele é, o local de vcs
+sobre_espaco|O que o espaço possui
+sobre_espaco|Poderia me falar um pouco sobre o local
+sobre_espaco|Como é o ambiente do espaço shiroma
+sobre_espaco|O local disponibiliza oq
+valor|Qual o valor?
+valor|Qual é o investimento
+valor|Quanto vcs cobram pelo aluguel
+valor|Qual é o valor do aluguel
+valor|Quanto custa
+valor|Sobre valores, quanto é?
+valor|Gostaria de saber o valor do local
+valor|Gostaria de saber o valor do espaço shiroma
+valor|O valor do espaço?
+valor|E o valor?
+valor|Eu gostaria de saber quanto esta a locação da casa para festas ?
+valor|Quanto é o aluguel do local?
+valor|gostaria de saber valor do aluguel do espaço de festa
+valor|Gostaria de saber o valor da casa para eventos
+valor|Qual o valor para locação
+valor|O preço do local qual é
+valor|Quanto custa alugar o local de vcs
+valor|Sobre o valor do espaco, quanto é?
+valor|Qual é o valor?
+valor|Que preço vcs cobram para alugar o local
+forma_pagamento|Como é a forma de pagamento?
+forma_pagamento|Como pago?
+forma_pagamento|Como é o pagamento?
+forma_pagamento|Como posso pagar?
+forma_pagamento|Qual forma de pagamento vcs possuem
+forma_pagamento|Sobre pagamento como faço
+forma_pagamento|Em relação a pagamento
+data_possibilidade|Queria saber se o dia 7 de dezembro já está reservado
+data_possibilidade|E o dia 6 ?
+data_possibilidade|Vcs teriam disponibilidade para o dia 15 de novembro
+data_possibilidade|Teria para o dia 5 de outubro em um sábado
+data_possibilidade|E na sexta dia 04?
+data_possibilidade|Em 04 abril de 2019
+data_possibilidade|Eu queria saber se no dia 12/10 já está locado?
+data_possibilidade|Essa terça está disponivel?
+data_possibilidade|Segunda dessa semana está alugado?
+visita|Seria possível fazer uma visita ao local?
+visita|Gostaria de conhecer local?
+visita|Gostaria de conhecer o espaco
+visita|Visita ao espaco antes de fechar o contrato, é possivel?
+visita|Ir ao espaco para conhecer
+visita|Podemos agendar uma visita para que eu conheça o local?
